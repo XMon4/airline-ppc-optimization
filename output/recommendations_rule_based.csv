@@ -1,0 +1,541 @@
+publisher_name,match_type,keyword_group,clicks,spend,bookings,revenue,roas,cvr,ctr,recommendation,rationale
+Google - US,Broad,Google|Barcelona,1317,2517.94,1,1851.3,0.7352,0.0008,0.0455,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Europe,300,746.2,1,516.8,0.6926,0.0033,0.0289,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Europe,3925,10195.46,1,5877.75,0.5765,0.0003,0.0271,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - Global,Broad,Marseille,207,349.74,1,167.45,0.4788,0.0048,0.0193,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Nice,2133,4807.8,9,1961.8,0.408,0.0042,0.0873,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+MSN - US,Broad,France,406,1272.82,1,512.55,0.4027,0.0025,0.007,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - Global,Broad,Tour de France,1032,3343.14,1,1098.2,0.3285,0.001,0.0444,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Athens,1495,2267.86,1,722.5,0.3186,0.0007,0.0511,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+MSN - US,Broad,Paris,1026,2790.67,1,629.0,0.2254,0.001,0.0239,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Madrid,395,450.8,1,94.35,0.2093,0.0025,0.0153,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Italy,1779,5337.56,1,1045.5,0.1959,0.0006,0.0229,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+MSN - Global,Broad,France,591,3230.36,1,390.15,0.1208,0.0017,0.0166,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Spain,4176,12894.07,1,1275.0,0.0989,0.0002,0.0455,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Business Class - Generic,358,2028.01,1,144.5,0.0713,0.0028,0.0351,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Flights Relaunch,3557,14118.0,1,871.25,0.0617,0.0003,0.011,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Europe,2201,5631.99,1,96.9,0.0172,0.0005,0.0184,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - Global,Broad,Bordeaux,112,198.54,0,0.0,0.0,0.0,0.0064,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Bordeaux,395,1230.41,0,0.0,0.0,0.0,0.0863,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Delhi,367,865.35,0,0.0,0.0,0.0,0.0454,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Discount Airfare,160,954.84,0,0.0,0.0,0.0,0.0061,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Florence,248,569.31,0,0.0,0.0,0.0,0.027,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Geneva,121,410.11,0,0.0,0.0,0.0,0.0554,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Germany,1414,2530.54,0,0.0,0.0,0.0,0.0446,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Greece,847,2871.54,0,0.0,0.0,0.0,0.0304,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|International Airfare,164,591.79,0,0.0,0.0,0.0,0.0324,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|International Flights,382,1053.4,0,0.0,0.0,0.0,0.0307,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|International General,448,1030.57,0,0.0,0.0,0.0,0.0277,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Istanbul,121,207.5,0,0.0,0.0,0.0,0.0349,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|London,260,473.96,0,0.0,0.0,0.0,0.0308,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Madrid,248,692.29,0,0.0,0.0,0.0,0.0233,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Milan,341,573.64,0,0.0,0.0,0.0,0.0453,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Turkey,2981,7001.57,0,0.0,0.0,0.0,0.0479,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|UK,250,1076.15,0,0.0,0.0,0.0,0.0341,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|Venice,412,980.54,0,0.0,0.0,0.0,0.0223,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|cairo,265,812.21,0,0.0,0.0,0.0,0.0478,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|dubai,757,1676.71,0,0.0,0.0,0.0,0.0439,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|johannesburg,200,555.08,0,0.0,0.0,0.0,0.071,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|kiev,122,332.96,0,0.0,0.0,0.0,0.0565,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|marrakech,223,648.91,0,0.0,0.0,0.0,0.0761,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|moscow,177,557.91,0,0.0,0.0,0.0,0.0359,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|nairobi,172,491.54,0,0.0,0.0,0.0,0.0555,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|prague,490,1188.97,0,0.0,0.0,0.0,0.0594,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|sofia,165,460.27,0,0.0,0.0,0.0,0.0475,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Google|split,181,592.04,0,0.0,0.0,0.0,0.0341,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Greece,600,1507.5,0,0.0,0.0,0.0,0.0292,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Houston to Rome Sale,229,774.37,0,0.0,0.0,0.0,0.0296,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,India,214,594.34,0,0.0,0.0,0.0,0.0248,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Lyon,521,1252.16,0,0.0,0.0,0.0,0.0883,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Milan,253,311.07,0,0.0,0.0,0.0,0.0218,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Rome,1490,2638.27,0,0.0,0.0,0.0,0.0255,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Turkey,753,1650.31,0,0.0,0.0,0.0,0.0421,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,UK,101,297.97,0,0.0,0.0,0.0,0.0462,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,Broad,Venice,306,426.14,0,0.0,0.0,0.0,0.0192,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,,Google|Discount Airfare,135,36.82,0,0.0,0.0,0.0,0.0009,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Google - US,,Google|International General,420,94.54,0,0.0,0.0,0.0,0.007,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Business Class - Generic,176,825.75,0,0.0,0.0,0.0,0.0076,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Cheap International Los Angeles,114,434.95,0,0.0,0.0,0.0,0.0361,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Cheap International San Francisco,109,410.92,0,0.0,0.0,0.0,0.0161,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,International Los Angeles,144,263.69,0,0.0,0.0,0.0,0.0302,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,International San Francisco,134,284.91,0,0.0,0.0,0.0,0.014,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Turkey,137,479.67,0,0.0,0.0,0.0,0.0111,DECREASE_SPEND_-20%,ROAS ≤ 0.8 with volume
+Yahoo - US,Advanced,Florence,31,46.71,9,8777.95,187.9144,0.2903,0.0032,HOLD,Within guardrails
+Google - Global,,France,49,11.0,1,1296.25,117.8409,0.0204,0.0103,HOLD,Within guardrails
+Yahoo - US,Advanced,Rome,63,104.56,4,5729.0,54.7902,0.0635,0.0031,HOLD,Within guardrails
+Google - US,Broad,DC to France Sale,35,62.21,4,3300.55,53.0528,0.1143,0.0564,HOLD,Within guardrails
+Google - US,Broad,Nice Branded,70,116.71,3,2470.1,21.164,0.0429,0.2869,HOLD,Within guardrails
+Google - US,Broad,International Detroit,33,92.85,1,923.95,9.951,0.0303,0.0291,HOLD,Within guardrails
+Google - US,Broad,New York to Florence Sale,22,53.26,1,490.45,9.2082,0.0455,0.1215,HOLD,Within guardrails
+Google - US,Broad,San Francisco to Italy Sale,74,163.74,1,850.0,5.1912,0.0135,0.025,HOLD,Within guardrails
+Google - US,Broad,Miami to France Sale,61,142.79,1,470.05,3.292,0.0164,0.041,HOLD,Within guardrails
+Google - US,Broad,Los Angeles to France Sale,80,194.14,1,483.65,2.4913,0.0125,0.0637,HOLD,Within guardrails
+Yahoo - US,Advanced,International Atlanta,77,136.97,1,170.0,1.2411,0.013,0.0356,HOLD,Within guardrails
+Yahoo - US,Advanced,International DC,129,268.55,4,317.05,1.1806,0.031,0.0129,HOLD,Within guardrails
+Google - US,Broad,Marseille,277,575.76,1,671.5,1.1663,0.0036,0.102,HOLD,Within guardrails
+Overture - US,Advanced,Unassigned,33919,40138.92,39,46377.7,1.1554,0.0011,0.0089,HOLD,Within guardrails
+Google - US,Broad,France,12001,45918.14,48,46511.15,1.0129,0.004,0.0476,HOLD,Within guardrails
+Yahoo - US,Advanced,International New York,367,920.5,1,816.0,0.8865,0.0027,0.027,HOLD,Within guardrails
+Google - US,Broad,Barcelona,718,1118.55,2,969.0,0.8663,0.0028,0.0247,HOLD,Within guardrails
+Google - Global,Broad,Amsterdam,43,124.06,0,0.0,0.0,0.0,0.0275,HOLD,Within guardrails
+Google - Global,Broad,Brussels,32,97.91,0,0.0,0.0,0.0,0.0252,HOLD,Within guardrails
+Google - Global,Broad,Zurich,25,48.77,0,0.0,0.0,0.0,0.0318,HOLD,Within guardrails
+Google - US,Broad,Barcelona Branded,23,17.32,0,0.0,0.0,0.0,0.1223,HOLD,Within guardrails
+Google - US,Broad,Boston to France Sale,40,66.37,0,0.0,0.0,0.0,0.0209,HOLD,Within guardrails
+Google - US,Broad,Business Class - Branded,28,67.3,0,0.0,0.0,0.0,0.1564,HOLD,Within guardrails
+Google - US,Broad,Cheap International Detroit,35,123.4,0,0.0,0.0,0.0,0.0179,HOLD,Within guardrails
+Google - US,Broad,Cheap International Los Angeles,32,110.72,0,0.0,0.0,0.0,0.0256,HOLD,Within guardrails
+Google - US,Broad,Cheap International Philadelphia,20,75.97,0,0.0,0.0,0.0,0.0468,HOLD,Within guardrails
+Google - US,Broad,Chicago to France Sale,49,87.07,0,0.0,0.0,0.0,0.0267,HOLD,Within guardrails
+Google - US,Broad,DC to Barcelona Sale,37,99.49,0,0.0,0.0,0.0,0.0839,HOLD,Within guardrails
+Google - US,Broad,DC to Italy Sale,43,115.61,0,0.0,0.0,0.0,0.0825,HOLD,Within guardrails
+Google - US,Broad,DC to Rome Sale,38,115.67,0,0.0,0.0,0.0,0.0957,HOLD,Within guardrails
+Google - US,Broad,Detroit to Paris Sale,21,46.04,0,0.0,0.0,0.0,0.0317,HOLD,Within guardrails
+Google - US,Broad,Europe Branded,25,27.06,0,0.0,0.0,0.0,0.1214,HOLD,Within guardrails
+Google - US,Broad,Europe Detroit,21,58.4,0,0.0,0.0,0.0,0.0207,HOLD,Within guardrails
+Google - US,Broad,Google|Hamburg,36,105.37,0,0.0,0.0,0.0,0.0212,HOLD,Within guardrails
+Google - US,Broad,Google|Overseas,44,112.21,0,0.0,0.0,0.0,0.0366,HOLD,Within guardrails
+Google - US,Broad,Google|Stuttgart,41,118.07,0,0.0,0.0,0.0,0.0215,HOLD,Within guardrails
+Google - US,Broad,Google|agadir,25,65.59,0,0.0,0.0,0.0,0.0633,HOLD,Within guardrails
+Google - US,Broad,Google|casablanca,33,101.29,0,0.0,0.0,0.0,0.0399,HOLD,Within guardrails
+Google - US,Broad,Google|dakar,41,85.06,0,0.0,0.0,0.0,0.0737,HOLD,Within guardrails
+Google - US,Broad,International Los Angeles,23,62.55,0,0.0,0.0,0.0,0.0127,HOLD,Within guardrails
+Google - US,Broad,New York to Athens Sale,32,73.22,0,0.0,0.0,0.0,0.1039,HOLD,Within guardrails
+Google - US,Broad,New York to Barcelona Sale,49,141.91,0,0.0,0.0,0.0,0.0946,HOLD,Within guardrails
+Google - US,Broad,New York to Madrid Sale,21,46.06,0,0.0,0.0,0.0,0.0533,HOLD,Within guardrails
+Google - US,Broad,New York to Spain Sale,33,79.04,0,0.0,0.0,0.0,0.0476,HOLD,Within guardrails
+Google - US,,Google|Delhi,48,90.01,0,0.0,0.0,0.0,0.002,HOLD,Within guardrails
+Google - US,,Google|Flights Relaunch,28,8.79,0,0.0,0.0,0.0,0.0037,HOLD,Within guardrails
+Google - US,,Google|Greece,33,131.34,0,0.0,0.0,0.0,0.0012,HOLD,Within guardrails
+Google - US,,Google|International Airfare,34,5.66,0,0.0,0.0,0.0,0.0003,HOLD,Within guardrails
+Google - US,,Google|Istanbul,32,6.86,0,0.0,0.0,0.0,0.0012,HOLD,Within guardrails
+Google - US,,Google|dubai,44,67.38,0,0.0,0.0,0.0,0.0478,HOLD,Within guardrails
+Google - US,,Google|tel aviv,25,27.14,0,0.0,0.0,0.0,0.0053,HOLD,Within guardrails
+MSN - US,Broad,Business Class - Generic,24,128.9,0,0.0,0.0,0.0,0.0046,HOLD,Within guardrails
+Yahoo - US,Advanced,Athens,22,44.81,0,0.0,0.0,0.0,0.0094,HOLD,Within guardrails
+Yahoo - US,Advanced,Cheap International Atlanta,28,85.34,0,0.0,0.0,0.0,0.0253,HOLD,Within guardrails
+Yahoo - US,Advanced,Cheap International DC,46,161.46,0,0.0,0.0,0.0,0.0155,HOLD,Within guardrails
+Yahoo - US,Advanced,Cheap International Detroit,32,78.6,0,0.0,0.0,0.0,0.0435,HOLD,Within guardrails
+Yahoo - US,Advanced,Cheap International Miami,24,94.82,0,0.0,0.0,0.0,0.0278,HOLD,Within guardrails
+Yahoo - US,Advanced,Cheap International Philadelphia,36,110.14,0,0.0,0.0,0.0,0.0337,HOLD,Within guardrails
+Yahoo - US,Advanced,Europe Chicago,41,98.4,0,0.0,0.0,0.0,0.1126,HOLD,Within guardrails
+Yahoo - US,Advanced,Greece,39,124.47,0,0.0,0.0,0.0,0.0144,HOLD,Within guardrails
+Yahoo - US,Advanced,International Houston,45,109.39,0,0.0,0.0,0.0,0.0234,HOLD,Within guardrails
+Yahoo - US,Advanced,Venice,47,68.11,0,0.0,0.0,0.0,0.0063,HOLD,Within guardrails
+Yahoo - US,Standard,Marseille,25,38.34,0,0.0,0.0,0.0,0.012,HOLD,Within guardrails
+Yahoo - US,Standard,Paris Branded,32,11.14,0,0.0,0.0,0.0,0.1103,HOLD,Within guardrails
+Yahoo - US,Advanced,Low International DC,1,0.62,1,1574.2,2518.72,1.0,0.1667,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|rabat,11,14.07,1,1402.5,99.6448,0.0909,0.0305,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Paris Sale,17,36.79,1,434.35,11.807,0.0588,0.0817,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Basel,1,1.39,0,0.0,0.0,0.0,0.04,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Bologna,3,11.25,0,0.0,0.0,0.0,0.05,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Bucharest,9,28.14,0,0.0,0.0,0.0,0.0425,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Budapest,19,88.4,0,0.0,0.0,0.0,0.0345,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Copenhagen,8,23.26,0,0.0,0.0,0.0,0.0281,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Dusseldorf,5,19.59,0,0.0,0.0,0.0,0.0218,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Genoa,2,3.0,0,0.0,0.0,0.0,0.0833,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Glasgow,3,4.89,0,0.0,0.0,0.0,0.0118,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Gothenburg,2,11.8,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Helsinki,5,12.49,0,0.0,0.0,0.0,0.0746,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Krakow,3,5.1,0,0.0,0.0,0.0,0.0508,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Lisbon,8,11.07,0,0.0,0.0,0.0,0.0381,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Manchester,5,10.02,0,0.0,0.0,0.0,0.0037,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Naples,4,7.58,0,0.0,0.0,0.0,0.0253,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Oslo,4,10.71,0,0.0,0.0,0.0,0.0305,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Pisa,5,12.65,0,0.0,0.0,0.0,0.0758,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Southampton,1,1.56,0,0.0,0.0,0.0,0.0056,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,St. Petersburg,3,12.22,0,0.0,0.0,0.0,0.0165,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Stockholm,3,5.69,0,0.0,0.0,0.0,0.0113,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Strasbourg,14,25.94,0,0.0,0.0,0.0,0.0103,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Venice,17,51.99,0,0.0,0.0,0.0,0.0207,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Vienna,9,35.29,0,0.0,0.0,0.0,0.0078,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Warsaw,2,2.59,0,0.0,0.0,0.0,0.0088,HOLD_LOW_DATA,Low volume
+Google - Global,Broad,Zagreb,3,8.09,0,0.0,0.0,0.0,0.0423,HOLD_LOW_DATA,Low volume
+Google - Global,,Air France,7,2.59,0,0.0,0.0,0.0,0.0011,HOLD_LOW_DATA,Low volume
+Google - Global,,Air France Website,10,2.38,0,0.0,0.0,0.0,0.0116,HOLD_LOW_DATA,Low volume
+Google - Global,,Bordeaux,1,0.28,0,0.0,0.0,0.0,0.0053,HOLD_LOW_DATA,Low volume
+Google - Global,,Lyon,1,0.26,0,0.0,0.0,0.0,0.0122,HOLD_LOW_DATA,Low volume
+Google - Global,,Nice,2,0.57,0,0.0,0.0,0.0,0.0004,HOLD_LOW_DATA,Low volume
+Google - Global,,Paris,5,1.94,0,0.0,0.0,0.0,0.0019,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Airfrance Deal Boston,1,1.23,0,0.0,0.0,0.0,0.0714,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Airfrance Deal DC,2,2.17,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Airfrance Deal Detroit,3,1.69,0,0.0,0.0,0.0,0.75,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Airfrance Deal Los Angeles,1,0.49,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Airfrance Deal New York,3,3.47,0,0.0,0.0,0.0,0.1034,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Athens Branded,10,11.03,0,0.0,0.0,0.0,0.1299,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Bordeaux Branded,13,33.81,0,0.0,0.0,0.0,0.0663,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Athens Sale,4,8.09,0,0.0,0.0,0.0,0.0392,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Barcelona Sale,3,7.09,0,0.0,0.0,0.0,0.0938,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Florence Sale,1,1.27,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Greece Sale,1,1.25,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Italy Sale,11,19.5,0,0.0,0.0,0.0,0.055,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Madrid Sale,5,10.57,0,0.0,0.0,0.0,0.0943,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Milan Sale,2,6.05,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Naples Sale,1,1.06,0,0.0,0.0,0.0,0.1667,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Seville Sale,2,5.09,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Spain Sale,2,3.64,0,0.0,0.0,0.0,0.0357,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Boston to Venice Sale,3,7.33,0,0.0,0.0,0.0,0.6,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe Boston,12,26.82,0,0.0,0.0,0.0,0.2553,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe DC,9,21.66,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe Detroit,5,13.21,0,0.0,0.0,0.0,0.1389,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe Los Angeles,17,33.86,0,0.0,0.0,0.0,0.2464,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe New York,10,21.15,0,0.0,0.0,0.0,0.1754,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap Europe Philadelphia,4,6.89,0,0.0,0.0,0.0,0.3077,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap International Boston,17,53.94,0,0.0,0.0,0.0,0.0268,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap International DC,12,33.12,0,0.0,0.0,0.0,0.0119,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Cheap International New York,18,51.16,0,0.0,0.0,0.0,0.0178,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Athens Sale,13,39.49,0,0.0,0.0,0.0,0.1008,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Florence Sale,7,16.31,0,0.0,0.0,0.0,0.0778,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Greece Sale,4,5.8,0,0.0,0.0,0.0,0.1905,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Madrid Sale,6,19.15,0,0.0,0.0,0.0,0.1111,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Seville Sale,1,2.15,0,0.0,0.0,0.0,0.0625,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Spain Sale,10,28.11,0,0.0,0.0,0.0,0.0503,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Valencia Sale,1,0.9,0,0.0,0.0,0.0,0.0667,HOLD_LOW_DATA,Low volume
+Google - US,Broad,DC to Venice Sale,8,17.96,0,0.0,0.0,0.0,0.1081,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Athens Sale,6,11.93,0,0.0,0.0,0.0,0.0545,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Barcelona Sale,4,9.75,0,0.0,0.0,0.0,0.0377,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to France Sale,15,38.07,0,0.0,0.0,0.0,0.0159,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Greece Sale,5,13.06,0,0.0,0.0,0.0,0.0431,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Italy Sale,11,35.8,0,0.0,0.0,0.0,0.0312,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Madrid Sale,2,3.05,0,0.0,0.0,0.0,0.0364,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Rome Sale,5,17.57,0,0.0,0.0,0.0,0.051,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Spain Sale,13,29.61,0,0.0,0.0,0.0,0.0531,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Turin Sale,1,2.16,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Detroit to Venice Sale,1,2.45,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Discount Europe Boston,2,7.28,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Discount Europe Detroit,1,3.31,0,0.0,0.0,0.0,0.1,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Discount Europe Los Angeles,2,5.53,0,0.0,0.0,0.0,0.1,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Discount International Detroit,2,8.31,0,0.0,0.0,0.0,0.1111,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Discount International Philadelphia,1,5.49,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Europe Boston,16,44.45,0,0.0,0.0,0.0,0.0329,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Europe DC,13,33.74,0,0.0,0.0,0.0,0.0157,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Europe Los Angeles,16,40.12,0,0.0,0.0,0.0,0.0265,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Europe New York,19,43.49,0,0.0,0.0,0.0,0.0238,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Europe Philadelphia,12,39.35,0,0.0,0.0,0.0,0.0882,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Florence Branded,13,11.04,0,0.0,0.0,0.0,0.1238,HOLD_LOW_DATA,Low volume
+Google - US,Broad,France Branded,19,47.7,0,0.0,0.0,0.0,0.1301,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Germany,1,1.31,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|Britain,6,10.66,0,0.0,0.0,0.0,0.1579,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|Hanover,15,59.77,0,0.0,0.0,0.0,0.0161,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|Nuremberg,13,42.86,0,0.0,0.0,0.0,0.0183,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|Switzerland,16,46.2,0,0.0,0.0,0.0,0.018,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|abidjan,2,1.88,0,0.0,0.0,0.0,0.0208,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|bamako,3,4.09,0,0.0,0.0,0.0,0.04,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|bucarest,8,28.4,0,0.0,0.0,0.0,0.043,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|conakry,3,4.85,0,0.0,0.0,0.0,0.0556,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|cotonou,9,7.59,0,0.0,0.0,0.0,0.0629,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|djibouti,2,4.17,0,0.0,0.0,0.0,0.0741,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|nouakchott,3,7.44,0,0.0,0.0,0.0,0.2308,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|ouagadougou,1,0.86,0,0.0,0.0,0.0,0.0417,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Google|warsaw,1,3.66,0,0.0,0.0,0.0,0.037,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Houston to Athens Sale,14,39.76,0,0.0,0.0,0.0,0.0673,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Houston to Barcelona Sale,10,28.46,0,0.0,0.0,0.0,0.0299,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Houston to Florence Sale,5,12.64,0,0.0,0.0,0.0,0.0746,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Houston to Venice Sale,3,7.59,0,0.0,0.0,0.0,0.037,HOLD_LOW_DATA,Low volume
+Google - US,Broad,India Branded,2,3.5,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,International Boston,10,27.77,0,0.0,0.0,0.0,0.0165,HOLD_LOW_DATA,Low volume
+Google - US,Broad,International DC,17,49.41,0,0.0,0.0,0.0,0.0208,HOLD_LOW_DATA,Low volume
+Google - US,Broad,International New York,5,12.43,0,0.0,0.0,0.0,0.04,HOLD_LOW_DATA,Low volume
+Google - US,Broad,International Philadelphia,9,27.11,0,0.0,0.0,0.0,0.0476,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Istanbul Branded,5,3.34,0,0.0,0.0,0.0,0.2632,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Italy Branded,6,6.96,0,0.0,0.0,0.0,0.0769,HOLD_LOW_DATA,Low volume
+Google - US,Broad,London Branded,1,1.68,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Athens Sale,3,3.35,0,0.0,0.0,0.0,0.0588,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Barcelona Sale,7,25.66,0,0.0,0.0,0.0,0.049,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Greece Sale,5,10.18,0,0.0,0.0,0.0,0.0403,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Italy Sale,3,13.03,0,0.0,0.0,0.0,0.3,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Madrid Sale,1,1.15,0,0.0,0.0,0.0,0.1429,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Malaga Sale,2,3.99,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Milan Sale,2,7.35,0,0.0,0.0,0.0,0.0455,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Rome Sale,12,29.09,0,0.0,0.0,0.0,0.0448,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Seville Sale,1,2.01,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Spain Sale,5,9.69,0,0.0,0.0,0.0,0.0321,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Los Angeles to Venice Sale,2,2.83,0,0.0,0.0,0.0,0.0118,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Low Europe New York,2,2.49,0,0.0,0.0,0.0,0.6667,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Low International Detroit,2,6.09,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Low International Los Angeles,1,3.46,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Luxury - Branded,1,0.06,0,0.0,0.0,0.0,0.2,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Madrid Branded,3,2.14,0,0.0,0.0,0.0,0.1304,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Marseille Branded,2,0.97,0,0.0,0.0,0.0,2.0,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Milan Branded,3,2.05,0,0.0,0.0,0.0,0.0833,HOLD_LOW_DATA,Low volume
+Google - US,Broad,New York to Malaga Sale,1,1.73,0,0.0,0.0,0.0,0.1111,HOLD_LOW_DATA,Low volume
+Google - US,Broad,New York to Milan Sale,2,4.69,0,0.0,0.0,0.0,0.023,HOLD_LOW_DATA,Low volume
+Google - US,Broad,New York to Naples Sale,2,3.35,0,0.0,0.0,0.0,0.2222,HOLD_LOW_DATA,Low volume
+Google - US,Broad,New York to Venice Sale,11,28.7,0,0.0,0.0,0.0,0.0815,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Paris Xpress,19,52.9,0,0.0,0.0,0.0,0.0149,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Athens Sale,2,4.39,0,0.0,0.0,0.0,0.0909,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Barcelona Sale,5,19.9,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Florence Sale,2,3.59,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to France Sale,17,41.14,0,0.0,0.0,0.0,0.0646,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Greece Sale,2,5.69,0,0.0,0.0,0.0,0.1429,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Italy Sale,7,22.55,0,0.0,0.0,0.0,0.0407,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Madrid Sale,1,2.75,0,0.0,0.0,0.0,0.037,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Rome Sale,18,49.62,0,0.0,0.0,0.0,0.1607,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Philadelphia to Spain Sale,8,18.52,0,0.0,0.0,0.0,0.0447,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Rome Branded,17,17.84,0,0.0,0.0,0.0,0.0846,HOLD_LOW_DATA,Low volume
+Google - US,Broad,San Francisco to Athens Sale,11,34.5,0,0.0,0.0,0.0,0.1279,HOLD_LOW_DATA,Low volume
+Google - US,Broad,San Francisco to Barcelona Sale,17,45.27,0,0.0,0.0,0.0,0.1441,HOLD_LOW_DATA,Low volume
+Google - US,Broad,San Francisco to Florence Sale,8,16.8,0,0.0,0.0,0.0,0.2857,HOLD_LOW_DATA,Low volume
+Google - US,Broad,San Francisco to Rome Sale,16,49.74,0,0.0,0.0,0.0,0.1194,HOLD_LOW_DATA,Low volume
+Google - US,Broad,San Francisco to Venice Sale,8,15.62,0,0.0,0.0,0.0,0.0226,HOLD_LOW_DATA,Low volume
+Google - US,Broad,Spain Branded,16,9.3,0,0.0,0.0,0.0,0.1168,HOLD_LOW_DATA,Low volume
+Google - US,Exact,London,10,28.66,0,0.0,0.0,0.0,0.0806,HOLD_LOW_DATA,Low volume
+Google - US,Exact,Rome,13,29.07,0,0.0,0.0,0.0,0.0194,HOLD_LOW_DATA,Low volume
+Google - US,Exact,Venice,8,11.26,0,0.0,0.0,0.0,0.0245,HOLD_LOW_DATA,Low volume
+Google - US,,Boston to Paris Sale,0,0.0,1,417.35,0.0,0.0,0.0,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Athens,7,2.17,0,0.0,0.0,0.0,0.012,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Barcelona,18,5.06,0,0.0,0.0,0.0,0.0004,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Berlin,10,30.46,0,0.0,0.0,0.0,0.0009,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Britain,1,0.19,0,0.0,0.0,0.0,0.0065,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Cologne,5,14.4,0,0.0,0.0,0.0,0.0021,HOLD_LOW_DATA,Low volume
+Google - US,,Google|England,2,0.8,0,0.0,0.0,0.0,0.0179,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Frankfurt,5,1.27,0,0.0,0.0,0.0,0.0072,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Germany,2,0.57,0,0.0,0.0,0.0,0.001,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Hamburg,3,19.07,0,0.0,0.0,0.0,0.0018,HOLD_LOW_DATA,Low volume
+Google - US,,Google|International Flights,12,3.79,0,0.0,0.0,0.0,0.0144,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Italy,13,4.69,0,0.0,0.0,0.0,0.0012,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Madrid,8,1.65,0,0.0,0.0,0.0,0.0101,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Milan,1,0.24,0,0.0,0.0,0.0,0.0006,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Munich,2,0.8,0,0.0,0.0,0.0,0.0058,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Rome,3,0.87,0,0.0,0.0,0.0,0.0077,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Spain,18,4.7,0,0.0,0.0,0.0,0.0091,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Stuttgart,2,10.2,0,0.0,0.0,0.0,0.0024,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Switzerland,1,0.33,0,0.0,0.0,0.0,0.0004,HOLD_LOW_DATA,Low volume
+Google - US,,Google|agadir,2,0.65,0,0.0,0.0,0.0,0.0139,HOLD_LOW_DATA,Low volume
+Google - US,,Google|belgrade,5,13.6,0,0.0,0.0,0.0,0.0242,HOLD_LOW_DATA,Low volume
+Google - US,,Google|cairo,9,7.66,0,0.0,0.0,0.0,0.0307,HOLD_LOW_DATA,Low volume
+Google - US,,Google|casablanca,3,8.86,0,0.0,0.0,0.0,0.0042,HOLD_LOW_DATA,Low volume
+Google - US,,Google|johannesburg,1,0.24,0,0.0,0.0,0.0,0.0072,HOLD_LOW_DATA,Low volume
+Google - US,,Google|kiev,1,2.34,0,0.0,0.0,0.0,0.0114,HOLD_LOW_DATA,Low volume
+Google - US,,Google|marrakech,1,4.62,0,0.0,0.0,0.0,0.0526,HOLD_LOW_DATA,Low volume
+Google - US,,Google|moscow,3,9.11,0,0.0,0.0,0.0,0.0085,HOLD_LOW_DATA,Low volume
+Google - US,,Google|nairobi,4,5.31,0,0.0,0.0,0.0,0.0089,HOLD_LOW_DATA,Low volume
+Google - US,,Google|prague,8,23.66,0,0.0,0.0,0.0,0.0115,HOLD_LOW_DATA,Low volume
+Google - US,,Google|sofia,2,0.78,0,0.0,0.0,0.0,0.0233,HOLD_LOW_DATA,Low volume
+MSN - Global,Broad,Bordeaux,4,8.76,0,0.0,0.0,0.0,0.0148,HOLD_LOW_DATA,Low volume
+MSN - Global,Broad,France Branded,1,0.78,0,0.0,0.0,0.0,0.05,HOLD_LOW_DATA,Low volume
+MSN - Global,Broad,Lyon,8,11.19,0,0.0,0.0,0.0,0.018,HOLD_LOW_DATA,Low volume
+MSN - Global,Broad,Marseille,1,2.62,0,0.0,0.0,0.0,0.0076,HOLD_LOW_DATA,Low volume
+MSN - Global,Broad,Paris Branded,11,21.37,0,0.0,0.0,0.0,0.0502,HOLD_LOW_DATA,Low volume
+MSN - US,Broad,France Branded,4,6.61,0,0.0,0.0,0.0,0.1905,HOLD_LOW_DATA,Low volume
+MSN - US,Broad,Marseille,8,33.19,0,0.0,0.0,0.0,0.0784,HOLD_LOW_DATA,Low volume
+MSN - US,Broad,Paris Branded,9,22.45,0,0.0,0.0,0.0,0.0152,HOLD_LOW_DATA,Low volume
+MSN - US,Broad,Seattle to Paris Sale,1,2.67,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal Boston,1,1.07,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal DC,1,0.25,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal Houston,1,1.0,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal Los Angeles,1,1.02,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal Miami,1,0.31,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal New York,4,5.39,0,0.0,0.0,0.0,0.2105,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal Philadelphia,1,0.24,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Airfrance Deal San Francisco,1,0.24,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Barcelona Sale,1,0.84,0,0.0,0.0,0.0,0.0323,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Florence Sale,1,1.41,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to France Sale,1,2.7,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Greece Sale,1,0.61,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Italy Sale,2,1.8,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Madrid Sale,1,0.99,0,0.0,0.0,0.0,0.0192,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Naples Sale,1,0.99,0,0.0,0.0,0.0,0.0667,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Rome Sale,3,4.91,0,0.0,0.0,0.0,0.0051,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Atlanta to Venice Sale,1,0.19,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Bargain Europe Boston,1,1.5,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Bargain International Boston,1,0.79,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Berlin,2,3.76,0,0.0,0.0,0.0,0.0357,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Boston to Florence Sale,3,4.75,0,0.0,0.0,0.0,0.0176,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Boston to Milan Sale,1,1.89,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Boston to Paris Sale,1,4.49,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Boston to Pisa Sale,2,1.38,0,0.0,0.0,0.0,0.0317,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Boston to Venice Sale,1,1.12,0,0.0,0.0,0.0,0.0133,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Business Class - Branded,7,8.7,0,0.0,0.0,0.0,0.0778,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Atlanta,5,15.39,0,0.0,0.0,0.0,0.0141,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Boston,1,5.61,0,0.0,0.0,0.0,0.0078,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Cincinnati,1,2.0,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe DC,1,1.46,0,0.0,0.0,0.0,0.0116,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Detroit,3,4.95,0,0.0,0.0,0.0,0.1304,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Houston,2,2.49,0,0.0,0.0,0.0,0.0103,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Los Angeles,5,17.68,0,0.0,0.0,0.0,0.0158,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Miami,1,2.44,0,0.0,0.0,0.0,0.0051,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe New York,1,4.3,0,0.0,0.0,0.0,0.0024,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap Europe Philadelphia,1,3.39,0,0.0,0.0,0.0,0.1111,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cheap International Cincinnati,4,6.7,0,0.0,0.0,0.0,0.0263,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Florence Sale,4,5.77,0,0.0,0.0,0.0,0.0294,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to France Sale,4,8.0,0,0.0,0.0,0.0,0.2667,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Italy Sale,1,0.29,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Madrid Sale,2,1.08,0,0.0,0.0,0.0,0.6667,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Malaga Sale,2,2.15,0,0.0,0.0,0.0,0.2222,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Milan Sale,1,1.89,0,0.0,0.0,0.0,0.0238,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Paris Sale,3,2.88,0,0.0,0.0,0.0,0.4286,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Rome Sale,2,7.15,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Chicago to Spain Sale,1,0.88,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Cincinnati to Pisa Sale,1,0.91,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to Athens Sale,1,1.32,0,0.0,0.0,0.0,0.0222,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to Barcelona Sale,1,1.84,0,0.0,0.0,0.0,0.0204,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to France Sale,2,1.66,0,0.0,0.0,0.0,0.125,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to Paris Sale,3,7.5,0,0.0,0.0,0.0,0.1154,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to Rome Sale,2,3.05,0,0.0,0.0,0.0,0.0206,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,DC to Venice Sale,2,2.56,0,0.0,0.0,0.0,0.0141,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Detroit to Italy Sale,1,1.02,0,0.0,0.0,0.0,0.3333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Detroit to Rome Sale,1,1.39,0,0.0,0.0,0.0,0.003,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Detroit to Venice Sale,1,1.68,0,0.0,0.0,0.0,0.0179,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount Europe Chicago,3,3.94,0,0.0,0.0,0.0,0.12,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount Europe Los Angeles,1,2.41,0,0.0,0.0,0.0,0.2,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount Europe New York,2,10.94,0,0.0,0.0,0.0,0.1,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount Europe San Francisco,1,1.84,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Atlanta,2,6.54,0,0.0,0.0,0.0,0.0339,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Boston,3,2.84,0,0.0,0.0,0.0,0.0938,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Chicago,10,21.14,0,0.0,0.0,0.0,0.0709,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International DC,7,15.85,0,0.0,0.0,0.0,0.0511,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Detroit,3,2.85,0,0.0,0.0,0.0,0.15,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Houston,1,1.06,0,0.0,0.0,0.0,0.0312,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Los Angeles,9,22.04,0,0.0,0.0,0.0,0.1047,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Miami,3,6.71,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International New York,5,10.15,0,0.0,0.0,0.0,0.0305,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International Philadelphia,4,8.75,0,0.0,0.0,0.0,0.1176,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Discount International San Francisco,3,2.7,0,0.0,0.0,0.0,0.0229,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe Atlanta,5,6.57,0,0.0,0.0,0.0,0.102,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe Boston,3,5.76,0,0.0,0.0,0.0,0.1765,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe DC,1,1.26,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe Los Angeles,8,22.6,0,0.0,0.0,0.0,0.1509,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe Miami,3,9.06,0,0.0,0.0,0.0,0.15,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe New York,8,28.65,0,0.0,0.0,0.0,0.065,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe Philadelphia,2,3.1,0,0.0,0.0,0.0,0.1667,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Europe San Francisco,6,11.65,0,0.0,0.0,0.0,0.0403,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Germany,8,16.74,0,0.0,0.0,0.0,0.023,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Hamburg,4,6.22,0,0.0,0.0,0.0,0.0011,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Hanover,3,1.84,0,0.0,0.0,0.0,0.0005,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Houston to Florence Sale,1,1.54,0,0.0,0.0,0.0,0.0064,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Houston to Paris Sale,1,0.78,0,0.0,0.0,0.0,0.2,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Houston to Rome Sale,1,0.99,0,0.0,0.0,0.0,0.002,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Houston to Spain Sale,2,3.61,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,International Cincinnati,10,24.14,0,0.0,0.0,0.0,0.0192,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Athens Sale,2,6.64,0,0.0,0.0,0.0,0.0333,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Barcelona Sale,5,10.98,0,0.0,0.0,0.0,0.0407,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Florence Sale,6,10.22,0,0.0,0.0,0.0,0.013,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to France Sale,7,13.24,0,0.0,0.0,0.0,0.0252,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Greece Sale,2,2.34,0,0.0,0.0,0.0,0.2857,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Paris Sale,5,13.11,0,0.0,0.0,0.0,0.0382,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Rome Sale,3,4.2,0,0.0,0.0,0.0,0.0226,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Spain Sale,1,5.11,0,0.0,0.0,0.0,0.5,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Valencia Sale,2,1.0,0,0.0,0.0,0.0,0.023,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Los Angeles to Venice Sale,1,1.51,0,0.0,0.0,0.0,0.0035,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Low Europe Chicago,1,2.54,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Low International Houston,1,0.69,0,0.0,0.0,0.0,0.2,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Luxury Flight,5,17.11,0,0.0,0.0,0.0,0.0171,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Miami to Italy Sale,2,2.34,0,0.0,0.0,0.0,0.6667,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Milan,9,11.0,0,0.0,0.0,0.0,0.0048,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Munich,2,7.6,0,0.0,0.0,0.0,0.0103,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Athens Sale,3,3.81,0,0.0,0.0,0.0,0.0361,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Barcelona Sale,1,0.45,0,0.0,0.0,0.0,0.0588,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Florence Sale,7,9.69,0,0.0,0.0,0.0,0.012,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to France Sale,6,10.16,0,0.0,0.0,0.0,0.2308,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Greece Sale,3,3.19,0,0.0,0.0,0.0,0.75,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Italy Sale,1,0.47,0,0.0,0.0,0.0,0.0909,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Paris Sale,3,6.67,0,0.0,0.0,0.0,0.027,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Pisa Sale,1,1.21,0,0.0,0.0,0.0,0.007,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Rome Sale,3,7.36,0,0.0,0.0,0.0,0.0039,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Spain Sale,1,4.59,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,New York to Venice Sale,3,4.34,0,0.0,0.0,0.0,0.0064,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Philadelphia to Florence Sale,4,6.69,0,0.0,0.0,0.0,0.0235,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Philadelphia to Greece Sale,1,1.23,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Philadelphia to Milan Sale,1,3.6,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Philadelphia to Venice Sale,1,1.76,0,0.0,0.0,0.0,0.0104,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Athens Sale,3,5.92,0,0.0,0.0,0.0,0.0536,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Florence Sale,8,13.32,0,0.0,0.0,0.0,0.0192,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to France Sale,2,6.54,0,0.0,0.0,0.0,0.1,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Paris Sale,6,16.77,0,0.0,0.0,0.0,0.0476,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Pisa Sale,1,0.68,0,0.0,0.0,0.0,0.0175,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Rome Sale,4,6.82,0,0.0,0.0,0.0,0.0296,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Spain Sale,1,4.96,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,San Francisco to Venice Sale,4,6.16,0,0.0,0.0,0.0,0.0194,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Seattle to Paris Sale,1,0.35,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Stuttgart,1,0.91,0,0.0,0.0,0.0,1.0,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Turkey Branded,2,1.05,0,0.0,0.0,0.0,0.4,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,UK,2,10.81,0,0.0,0.0,0.0,0.0055,HOLD_LOW_DATA,Low volume
+Yahoo - US,Advanced,Zurich,1,1.89,0,0.0,0.0,0.0,0.0112,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Bordeaux,10,8.71,0,0.0,0.0,0.0,0.0314,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Bordeaux Branded,1,0.39,0,0.0,0.0,0.0,0.0137,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,England,10,18.38,0,0.0,0.0,0.0,0.0142,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,France Branded,3,2.91,0,0.0,0.0,0.0,0.1,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Frankfurt,1,2.14,0,0.0,0.0,0.0,0.0021,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Germany,1,4.75,0,0.0,0.0,0.0,0.0769,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,London,11,22.26,0,0.0,0.0,0.0,0.0208,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Lyon,15,13.18,0,0.0,0.0,0.0,0.0259,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Nice Branded,1,0.12,0,0.0,0.0,0.0,0.2,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Rome,3,3.91,0,0.0,0.0,0.0,0.0857,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Switzerland,1,0.99,0,0.0,0.0,0.0,0.25,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Turkey,13,16.16,0,0.0,0.0,0.0,0.0575,HOLD_LOW_DATA,Low volume
+Yahoo - US,Standard,Venice,4,4.25,0,0.0,0.0,0.0,0.0976,HOLD_LOW_DATA,Low volume
+Google - US,,Google|Europe,112,31.65,1,2882.35,91.0695,0.0089,0.0007,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Exact,Air France,11209,4888.41,180,237631.1,48.6111,0.0161,0.1042,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Exact,Air France Brand,30418,13336.81,439,515791.9,38.6743,0.0144,0.1614,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Air France Website,3196,2255.41,60,76535.7,33.9342,0.0188,0.1843,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Advanced,Air France Website,30349,23615.56,531,719293.8,30.4585,0.0175,0.0968,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+MSN - US,Broad,Air France Website,1898,1311.81,29,34512.55,26.3091,0.0153,0.2599,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Advanced,Air France Brand,6672,5098.4,87,112734.65,22.1118,0.013,0.1354,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+MSN - Global,Broad,Air France Website,2080,947.02,25,20740.85,21.9011,0.012,0.2882,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+MSN - Global,Broad,Air France Brand,7586,5641.7,97,117208.2,20.7753,0.0128,0.137,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Air France,4838,4060.95,60,81345.0,20.031,0.0124,0.0349,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Exact,Air France Brand,14713,15329.74,231,264650.9,17.2639,0.0157,0.3342,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+MSN - US,Broad,Air France Brand,7359,10356.67,109,145895.7,14.0871,0.0148,0.134,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Air France Brand,45783,53914.3,495,562929.5,10.4412,0.0108,0.0916,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Advanced,International Chicago,204,434.89,1,4403.85,10.1264,0.0049,0.0466,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Overture - Global,Advanced,Unassigned,40970,35936.9,306,351239.55,9.7738,0.0075,0.0033,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Air France Website,29966,47129.81,380,439121.05,9.3173,0.0127,0.1411,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Houston to Paris Sale,307,810.97,5,7065.2,8.712,0.0163,0.0246,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Lyon,133,216.11,2,1836.0,8.4956,0.015,0.0066,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Air France Brand,7387,9975.1,77,78217.85,7.8413,0.0104,0.1092,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Florence,309,415.69,4,2956.3,7.1118,0.0129,0.0241,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Nice,683,1225.49,7,8252.65,6.7342,0.0102,0.0165,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,New York to France Sale,1190,3020.67,24,20068.5,6.6437,0.0202,0.0491,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Boston to Paris Sale,170,382.1,3,2461.6,6.4423,0.0176,0.0353,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Paris Branded,354,558.62,5,3139.9,5.6208,0.0141,0.2082,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Standard,France,1381,1711.4,6,8778.8,5.1296,0.0043,0.0182,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Los Angeles to Paris Sale,156,408.06,1,1700.0,4.166,0.0064,0.0583,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Chicago to Paris Sale,293,690.19,4,2740.4,3.9705,0.0137,0.0824,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,New York to Paris Sale,1600,3878.74,19,13370.5,3.4471,0.0119,0.0747,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Advanced,General Terms,518,606.47,1,1977.95,3.2614,0.0019,0.0036,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+MSN - Global,Broad,Paris,881,2212.57,6,7185.05,3.2474,0.0068,0.0224,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Standard,Nice,238,353.36,1,1120.3,3.1704,0.0042,0.0131,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Paris,17436,40533.4,124,124576.85,3.0734,0.0071,0.0258,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,San Francisco to Paris Sale,392,990.29,2,2972.45,3.0016,0.0051,0.0878,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Standard,Paris,2785,5084.6,13,15243.9,2.9981,0.0047,0.0286,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Overture - US,Standard,Unassigned,85404,101837.15,250,301055.55,2.9562,0.0029,0.0064,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Overture - Global,Standard,Unassigned,19929,28358.96,66,78845.15,2.7803,0.0033,0.0035,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Seattle to Paris Sale,542,1171.22,4,2817.75,2.4058,0.0074,0.0993,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Google|Rome,1198,2481.52,4,4119.1,1.6599,0.0033,0.0369,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Google|Athens,897,1855.24,4,3048.95,1.6434,0.0045,0.0375,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Yahoo - US,Advanced,Cheap International New York,153,581.84,1,834.7,1.4346,0.0065,0.0324,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,France,11578,37790.25,53,53941.85,1.4274,0.0046,0.0189,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Spain,3029,8464.44,11,11599.1,1.3703,0.0036,0.0729,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Paris,16646,49209.96,50,62719.8,1.2745,0.003,0.0726,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - US,Broad,Italy,3855,8380.67,11,10642.0,1.2698,0.0029,0.0437,INCREASE_SPEND_+20%,ROAS ≥ 1.2 with volume
+Google - Global,Broad,Paris Branded,58,85.97,0,0.0,0.0,0.0,0.1742,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Boston to Rome Sale,88,337.55,0,0.0,0.0,0.0,0.0336,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,DC to Paris Sale,59,140.99,0,0.0,0.0,0.0,0.0592,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|Berlin,73,217.54,0,0.0,0.0,0.0,0.0221,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|Cologne,51,202.81,0,0.0,0.0,0.0,0.0051,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|England,58,125.26,0,0.0,0.0,0.0,0.0297,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|Frankfurt,76,238.86,0,0.0,0.0,0.0,0.026,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|Munich,93,324.9,0,0.0,0.0,0.0,0.0316,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|amman,61,124.89,0,0.0,0.0,0.0,0.0414,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|belgrade,92,153.75,0,0.0,0.0,0.0,0.0547,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|tel aviv,97,198.52,0,0.0,0.0,0.0,0.0462,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Google|tunis,75,257.97,0,0.0,0.0,0.0,0.0412,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Luxury Flight,56,193.21,0,0.0,0.0,0.0,0.0209,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,Miami to Paris Sale,51,101.04,0,0.0,0.0,0.0,0.0511,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,New York to Italy Sale,70,221.05,0,0.0,0.0,0.0,0.0593,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Broad,New York to Rome Sale,63,222.29,0,0.0,0.0,0.0,0.1028,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,Exact,Istanbul,73,110.31,0,0.0,0.0,0.0,0.0247,PAUSE_TEST,≥50 clicks and 0 bookings
+Google - US,,Google|Turkey,53,13.05,0,0.0,0.0,0.0,0.0008,PAUSE_TEST,≥50 clicks and 0 bookings
+MSN - Global,Broad,Nice,54,83.97,0,0.0,0.0,0.0,0.0411,PAUSE_TEST,≥50 clicks and 0 bookings
+MSN - US,Broad,Nice,73,172.67,0,0.0,0.0,0.0,0.0594,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Cheap International Boston,53,199.62,0,0.0,0.0,0.0,0.0402,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Cheap International Chicago,61,213.44,0,0.0,0.0,0.0,0.0281,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Cheap International Houston,51,197.45,0,0.0,0.0,0.0,0.0315,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Cologne,79,252.5,0,0.0,0.0,0.0,0.0034,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,International Boston,76,146.9,0,0.0,0.0,0.0,0.0281,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,International Detroit,68,111.77,0,0.0,0.0,0.0,0.0422,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,International Miami,86,279.01,0,0.0,0.0,0.0,0.0236,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,International Philadelphia,88,247.34,0,0.0,0.0,0.0,0.0199,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Italy,55,130.94,0,0.0,0.0,0.0,0.0121,PAUSE_TEST,≥50 clicks and 0 bookings
+Yahoo - US,Advanced,Spain,54,198.06,0,0.0,0.0,0.0,0.0211,PAUSE_TEST,≥50 clicks and 0 bookings

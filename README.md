@@ -41,4 +41,6 @@ Open the notebook and run all cells.
 - Pause underperformers with ≥50 clicks and 0 bookings.
 - Test higher bids on high-ROAS, high-volume groups (Publisher/Match).
 
-*Generated on 2025-08-14 08:07 UTC.*
+![Top ROAS groups](docs/figures/top_roas_groups.png)
+![Spend vs Revenue](docs/figures/spend_vs_revenue.png)
+
